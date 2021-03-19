@@ -1,1 +1,2 @@
-# 2-balls-copy-cat-eachother
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
